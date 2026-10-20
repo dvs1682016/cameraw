@@ -1,0 +1,9 @@
+{
+  "name": "qr-checkin-v222-auth-test",
+  "private": true,
+  "version": "2.2.2",
+  "description": "QR Code check-in: Google administrator login acceptance stage",
+  "dependencies": {
+    "google-auth-library": "^9.15.1"
+  }
+}
